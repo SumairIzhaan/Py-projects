@@ -19,6 +19,7 @@ for i in range(1,7):
     perform()
     
 #using while loop
+# hurdles=6
 # while hurdles>0:
 #     perform()
 #     hurdles-=1
